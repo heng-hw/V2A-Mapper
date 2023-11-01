@@ -11,7 +11,7 @@ Compared to previous methods [Im2Wav](https://arxiv.org/abs/2211.03089) and [CLI
 
 ## VGGSound
 [VGGSound](https://github.com/hche11/VGGSound) contains 199,176 10-second video clips extracted
-from videos uploaded to YouTube with audio-visual correspondence. Following the original train/test split, we evaluate the performance on 15,446 test samples. Our generated test samples (~5G) for VGGSound can be downloaded from [here](https://drive.google.com/drive/folders/18Iw7xv96J5pKP3tlgwPd8hI5nMHFDQsS?usp=sharing).
+from videos uploaded to YouTube with audio-visual correspondence. Following the original train/test split, we evaluate the performance on 15,446 test samples. Our generated test samples (~5G) for VGGSound can be downloaded from [here](https://drive.google.com/drive/folders/1daDYUPOjHmJD3UsUrp9PFjgTmSXv-Znw?usp=sharing).
 
 ## ImageHear
 To testify the generalization ability of our V2A-Mapper, we also test on out-of-distribution dataset [ImageHear](https://github.com/RoySheffer/im2wav/tree/main/Data/ImageHear) which contains
