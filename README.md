@@ -1,6 +1,6 @@
 # V2A-Mapper: A Lightweight Solution for Vision-to-Audio Generation by Connecting Foundation Models
 
-For benchmarking purpose, this repo hosts the generated test samples of "V2A-Mapper: A Lightweight Solution for Vision-to-Audio Generation by Connecting Foundation Models" ([[arXiv]](https://arxiv.org/abs/2308.09300) [[project]](https://v2a-mapper.github.io/))
+For benchmarking purpose, this repo hosts the generated test samples of "V2A-Mapper: A Lightweight Solution for Vision-to-Audio Generation by Connecting Foundation Models", AAAI 2024. ([[arXiv]](https://arxiv.org/abs/2308.09300) [[project]](https://v2a-mapper.github.io/))
 
 Authors: [Heng Wang](https://scholar.google.com.au/citations?user=jPj4ViQAAAAJ&hl=en), [Jianbo Ma](https://scholar.google.com/citations?user=1CSIbMsAAAAJ&hl=fr), [Santiago Pascual](https://scholar.google.com/citations?user=7cVOyh0AAAAJ&hl=ca), Richard Cartwright, and [Weidong Cai](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/tom-cai.html) from [University of Sydney](https://www.sydney.edu.au/) and [Dolby Laboratories](https://www.dolby.com/).
 
@@ -22,11 +22,11 @@ If you need sample results by V2A-Mapper for your own datasets, we are happy to 
 ## Citation
 If you find our work helpful in your research, please kindly cite our paper via:
 ```bibtex
-@article{v2a-mapper,
-  author    = {Wang, Heng and Ma, Jianbo and Pascual, Santiago and Cartwright, Richard and Cai, Weidong},
+@inproceedings{v2a-mapper,
   title     = {V2A-Mapper: A Lightweight Solution for Vision-to-Audio Generation by Connecting Foundation Models},
-  journal   = {arXiv preprint arXiv:2308.09300},
-  year      = {2023},
+  author    = {Wang, Heng and Ma, Jianbo and Pascual, Santiago and Cartwright, Richard and Cai, Weidong},
+  booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence},
+  year      = {2024},
 }
 ```
 
